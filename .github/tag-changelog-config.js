@@ -1,6 +1,6 @@
 module.exports = {
 	types: [
-		{ types: ["feat", "feature"], label: "New Features" },
+		{ types: ["feat", "feature"], label: "New Features lol" },
 		{ types: ["fix", "bugfix"], label: "Bug Fixes" },
 		{ types: ["improvement", "improvements", "imp", "enhancement"], label: "Improvements" },
 		{ types: ["perf"], label: "Performance Improvements" },
